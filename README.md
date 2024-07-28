@@ -34,3 +34,18 @@
     * Ignite Call - 65 Aulas
     * Criando uma aplicação FullStack
     * Next.js e Banco de Dados
+
+
+Fundamentos 
+
+```bash
+# Criando Projeto com Vite
+$ npm create vite@latest
+```
+
+
+
+
+
+
+
