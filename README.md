@@ -16,3 +16,8 @@
     * Consumo de API e performance no ReactJS
     * Github Blog
     * API & Performance
+* **Nível 04**
+* **Nível 05**
+* **Nível 06**
+* **Nível 07**
+* **Nível 08**
