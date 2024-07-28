@@ -3,7 +3,7 @@
 
 * **Nível 01**
   * *Fundamentos*
-    * Iniciando com ReactJS - 31 Aulas ( Projeto : Ignite Feed )
+    * Iniciando com ReactJS - 31 Aulas ( [Projeto : Ignite Feed](https://github.com/brunoemferreira/rocketseat-ignite-feed))
     * Praticando Conceitos
     * Conceitos e Fundamentos do ReactJS
 * **Nível 02**
