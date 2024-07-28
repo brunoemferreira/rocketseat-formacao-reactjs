@@ -20,7 +20,10 @@
   * *Integrando Frontend - Backend*
     * Pizza Shop - 67 Aulas
 * **Nível 05**
-  * *Primeiro framework* 
+  * *Primeiro framework*
+    * Fundamentos do Next.js - 28 Aulas
+    * Adicionando features ao Ignite Shop
+    * Next.js e Stitches 
 * **Nível 06**
   * *Design System* 
 * **Nível 07**
