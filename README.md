@@ -17,7 +17,11 @@
     * Github Blog
     * API & Performance
 * **Nível 04**
+  * *Integrando Frontend - Backend*  
 * **Nível 05**
+  * *Primeiro framework* 
 * **Nível 06**
+  * *Design System* 
 * **Nível 07**
+  * *Aprofundando em Next.js*
 * **Nível 08**
