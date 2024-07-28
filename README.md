@@ -36,14 +36,16 @@
     * Next.js e Banco de Dados
 
 
-Fundamentos 
+## Fundamentos 
 
 ```bash
 # Criando Projeto com Vite
 $ npm create vite@latest
 ```
 
-Conceito de Componentes 
+Observações : 
+* Todos os componentes devem começar com as letras maiúsculas. 
+
 
 
 
