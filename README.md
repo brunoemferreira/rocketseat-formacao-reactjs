@@ -2,10 +2,10 @@
 
 
 * Nível 01
-   ** Fundamentos
-      *** Iniciando com ReactJS - 31 Aulas
-      *** Praticando Conceitos
-      *** Conceitos e Fundamentos do ReactJS
+   * Fundamentos
+     * Iniciando com ReactJS - 31 Aulas
+     * Praticando Conceitos
+     * Conceitos e Fundamentos do ReactJS
 * Nível 02
    ** Aprofundando em Hooks
       *** Criando SPAs com ReactJS - 45 Aulas
