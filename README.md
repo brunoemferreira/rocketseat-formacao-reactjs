@@ -25,7 +25,12 @@
     * Adicionando features ao Ignite Shop
     * Next.js e Stitches 
 * **Nível 06**
-  * *Design System* 
+  * *Design System*
+    * Design System - 36 Aulas
+    * Adicionando mais componentes do Design System
+    * Design Systems
 * **Nível 07**
   * *Aprofundando em Next.js*
-* **Nível 08**
+    * Ignite Call - 65 Aulas
+    * Criando uma aplicação FullStack
+    * Next.js e Banco de Dados
